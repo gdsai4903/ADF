@@ -1,0 +1,9 @@
+{
+	"name": "gagans-data-factory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bd0f184-68f9-4181-8832-6a3df018ba63",
+		"tenantId": "aec2d214-ea9e-4446-a0c0-fd94a7040a76"
+	}
+}
